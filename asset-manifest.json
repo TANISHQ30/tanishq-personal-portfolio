@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tanishq-personal-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/tanishq-personal-portfolio/static/js/main.376347ef.js",
+    "static/js/787.6383cda4.chunk.js": "/tanishq-personal-portfolio/static/js/787.6383cda4.chunk.js",
+    "static/media/logo.svg": "/tanishq-personal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tanishq-personal-portfolio/index.html",
+    "main.073c9b0a.css.map": "/tanishq-personal-portfolio/static/css/main.073c9b0a.css.map",
+    "main.376347ef.js.map": "/tanishq-personal-portfolio/static/js/main.376347ef.js.map",
+    "787.6383cda4.chunk.js.map": "/tanishq-personal-portfolio/static/js/787.6383cda4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.376347ef.js"
+  ]
+}
