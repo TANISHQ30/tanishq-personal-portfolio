@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tanishq-personal-portfolio/static/css/main.b4704b11.css",
-    "main.js": "/tanishq-personal-portfolio/static/js/main.6d67ebe6.js",
+    "main.js": "/tanishq-personal-portfolio/static/js/main.6686cc85.js",
     "static/js/787.6383cda4.chunk.js": "/tanishq-personal-portfolio/static/js/787.6383cda4.chunk.js",
     "index.html": "/tanishq-personal-portfolio/index.html",
     "main.b4704b11.css.map": "/tanishq-personal-portfolio/static/css/main.b4704b11.css.map",
-    "main.6d67ebe6.js.map": "/tanishq-personal-portfolio/static/js/main.6d67ebe6.js.map",
+    "main.6686cc85.js.map": "/tanishq-personal-portfolio/static/js/main.6686cc85.js.map",
     "787.6383cda4.chunk.js.map": "/tanishq-personal-portfolio/static/js/787.6383cda4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4704b11.css",
-    "static/js/main.6d67ebe6.js"
+    "static/js/main.6686cc85.js"
   ]
 }
